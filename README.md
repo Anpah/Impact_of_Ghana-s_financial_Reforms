@@ -1,1 +1,1 @@
-# Impact_of_Ghana's_financial_Reforms
+# Analyzing the impact of Ghana’s financial sector cleanup and domestic debt exchange program (ddep) on personal savings, investment, and confidence in financial institutions: a business analytics perspective
