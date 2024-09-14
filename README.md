@@ -14,7 +14,7 @@ The scope of the study encompassed an analysis of individual savings and investm
 # Literature Review
 The literature review covered various aspects of financial behaviour, including factors influencing savings and investment decisions, the role of financial institutions in shaping these behaviors, and previous studies on data visualization in financial analysis. This review provided a theoretical framework and contextual background for the study.
 
-# Reseearch Methodlogy
+# Reseearch Methodology
 A mixed-methods approach was employed for this study. The total sample size was 78, consisting of 58 responses collected via social media platforms through a questionnaire distribution. Insights were gathered from 10 financial industry experts through expert interviews, and qualitative data was obtained from a focus group discussion involving 10 participants. Python was used for data visualisation, while Excel was employed for data cleansing.
 
 # Data Analysis
