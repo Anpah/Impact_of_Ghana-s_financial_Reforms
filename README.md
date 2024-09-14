@@ -23,9 +23,27 @@ A mixed-methods approach was employed for this study. The total sample size was 
 # Data Analysis
 The data analysis for this study was conducted using a combination of Python (Google Colab and Jupyter Notebook) and Excel. Visual images and graphs were generated using Python and Google Forms to provide detailed data visualizations. Additionally, sentiment analysis was performed using Python to evaluate public sentiment and reactions to the financial reforms.
 # Demographics
-Gender Distribution!  | Age Distribtion!
-.....................|.........................
-![](Gender.png)      | ![](age_distribution.png)
+## Age Distribtion
+![](age_distribution.png)    
+25 - 34: 25%
+35 - 44: 20%
+45 - 54: 15%
+55 - 64: 5%
+65 - Above: 5%
+
+## Gender Distribution   
+![](Gender.png) 
+
+## Savings Behaviour
+![](changes in personal savings behaviour.png) 
+A significant number of respondents reported changes in their savings behaviour due to the Financial Sector Cleanup and DDEP.
+Based on the bar chart results as depicted in the above data, when asked if they noticed any changes in their personal savings behaviour since the implementation of Ghana's Financial Sector Cleanup and DDEP, 84.5% of respondents answered "yes," 13.8% answered "no," and 1.7% selected "other." For those who specified changes in their savings behaviour, 65.5% indicated decreased savings, 12.1% reported increased savings, and 10.3% noted no change in their savings ehavior. Additionally, 10.3% selected "other" as their response, while 1.7% experienced both decreased savings and no change in their savings behaviour.
+## Investment Behaviour
+![](changes in investment behaviour.png) 
+
+![](changes in personal savings behaviour.png) 
+![](Gender.png) 
+
 
 # Findings
 A significant number of respondents indicated low confidence (levels 1 and 2), reflecting the adverse impact on the overall confidence levels in financial institutions. This trend is especially pronounced among older age groups, particularly those aged 65 and above. Younger age groups (18-24) tend to have a slightly higher and more varied confidence level, but confidence still skews towards the lower end of the scale. A large proportion (44.8%) of respondents have reduced their investments as a result of the Financial Sector Cleanup and DDEP. A notable portion (17.2%) have diversified their investment portfolios, indicating a shift towards spreading risk. Other notable changes include a combination of reduced investments and diversified portfolios, changes in risk tolerance, and some increased investments. A significant majority (65.5%) have decreased their savings since the implementation of the Financial Sector Cleanup and DDEP. Only a small fraction (12.1%) has increased their savings, while 10.3% have experienced no change in their savings behavior. The remaining respondents (10.3%) specified other changes or a combination of decreased savings and unchanged behavior. The general sentiment, based on additional comments, indicates a mixture of skepticism and cautious optimism. While some individuals appreciate the intent behind the cleanup, there is concern about its immediate negative impact on personal finances and trust in financial institutions.
