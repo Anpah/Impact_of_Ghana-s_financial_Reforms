@@ -35,7 +35,7 @@ The data analysis for this study was conducted using a combination of Python (Go
 ![](Gender.png) 
 
 ## Savings Behaviour
-![](changes-n-personal-svings-behaviour) 
+![](changes-n-personal-svings-behaviour.png) 
 
 A significant number of respondents reported changes in their savings behaviour due to the Financial Sector Cleanup and DDEP.
 Based on the bar chart results as depicted in the above data, when asked if they noticed any changes in their personal savings behaviour since the implementation of Ghana's Financial Sector Cleanup and DDEP, 84.5% of respondents answered "yes," 13.8% answered "no," and 1.7% selected "other." For those who specified changes in their savings behaviour, 65.5% indicated decreased savings, 12.1% reported increased savings, and 10.3% noted no change in their savings ehavior. Additionally, 10.3% selected "other" as their response, while 1.7% experienced both decreased savings and no change in their savings behaviour.
