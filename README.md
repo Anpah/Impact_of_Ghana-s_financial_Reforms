@@ -1,6 +1,6 @@
 # Analyzing the impact of Ghana’s financial sector cleanup and domestic debt exchange program (ddep) on personal savings, investment, and confidence in financial institutions: a business analytics perspective
 
-![](confidence.png)
+![](ddep2.png)
 # Introduction
 The financial landscape of Ghana has witnessed substantial transformations in recent years, marked by significant policy interventions such as the Financial Sector Cleanup and the introduction of the Domestic Debt Exchange Program (DDEP). These initiatives, undertaken by the Bank of Ghana, reflect a proactive approach to address systemic challenges and restore stability within the financial sector (Bank of Ghana, 2019).
 The revocation of licenses from insolvent savings and loan companies, finance houses, and non-bank financial institutions, as well as the appointment of receivers, highlights the gravity of the situation and the imperative need for decisive actions to safeguard depositors' interests and mitigate risks to the financial system (Bank of Ghana, 2019). Additionally, implementing the Domestic Debt Exchange Program seeks to alleviate the country's debt burden transparently and efficiently, aiming to restore fiscal sustainability and support economic growth (Ministry of Finance, 2022).
@@ -64,6 +64,7 @@ Only one comment was classified as negative, showing minimally strong opposition
 #### Response Rate
 Out of a total of 58 respondents, only 26 filled out the portion of the forms related to additional comments or insights. This suggests that the sentiment analysis represents only a portion of the total respondents and may not fully capture the overall sentiment of the entire group.
 
+## Confidence Level
 ![](confidence.png)
 
 The bar chart illustrates the distribution of confidence levels in Ghanaian financial institutions after the Financial Sector Cleanup and DDEP on a scale from 1 to 5, where 1 represents "not confident at all" and 5 represents "extremely confident." The chart shows that the majority of respondents have low to moderate confidence in financial institutions, with the highest counts observed at confidence levels 2 and 3. Specifically, approximately 17.5 respondents rate their confidence level as 2, and around 17 respondents rate it as 3, indicating that a substantial portion of the population feels somewhat uncertain about the stability and reliability of financial institutions.
