@@ -8,8 +8,11 @@ The revocation of licenses from insolvent savings and loan companies, finance ho
 # Objective
 The objective of this study was to analyse trends in savings and investment behaviours, assess the confidence levels in financial institutions, and provide insights for improving financial strategies. The study aimed to gather quantitative and qualitative data to achieve a comprehensive understanding of the subject matter.
 
-# Scope and Purpose
+# Scope of the study
 The scope of the study encompassed an analysis of individual savings and investment behaviours, confidence levels in financial institutions, and expert opinions on current financial trends. The purpose was to identify key trends, provide actionable recommendations, and suggest areas for further research.
+
+# Purpose of the study
+The purpose of this study is to evaluate the effects of Ghana's Financial Sector Cleanup and Domestic Debt Exchange Program (DDEP) on personal savings behaviour, investment patterns, and public confidence in financial institutions. Through a business analytics perspective, the study aims to provide data-driven insights that can inform policymakers, regulators, financial institutions, and investors about the implications of these financial reforms. The goal is to understand the extent to which these interventions have succeeded in restoring stability and fostering trust within the financial ecosystem, as well as to identify areas for potential improvement and further research.
 
 # Literature Review
 The literature review covered various aspects of financial behaviour, including factors influencing savings and investment decisions, the role of financial institutions in shaping these behaviors, and previous studies on data visualization in financial analysis. This review provided a theoretical framework and contextual background for the study.
