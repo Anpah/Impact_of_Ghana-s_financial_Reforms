@@ -35,16 +35,41 @@ The data analysis for this study was conducted using a combination of Python (Go
 ![](Gender.png) 
 
 ## Savings Behaviour
-![](changes-in-investment_behaviour.png) 
+![](changes-n-personal-svings-behaviour) 
 
 A significant number of respondents reported changes in their savings behaviour due to the Financial Sector Cleanup and DDEP.
 Based on the bar chart results as depicted in the above data, when asked if they noticed any changes in their personal savings behaviour since the implementation of Ghana's Financial Sector Cleanup and DDEP, 84.5% of respondents answered "yes," 13.8% answered "no," and 1.7% selected "other." For those who specified changes in their savings behaviour, 65.5% indicated decreased savings, 12.1% reported increased savings, and 10.3% noted no change in their savings ehavior. Additionally, 10.3% selected "other" as their response, while 1.7% experienced both decreased savings and no change in their savings behaviour.
+
 ## Investment Behaviour
-![](changes in investment behaviour.png) 
-
 ![](changes-in-investment_behaviour.png) 
-![](Gender.png) 
 
+Based on the bar chart results as shown above, respondents who specified changes in their investment patterns reported the following: 44.8% indicated reduced investments, 17.2% diversified their investment portfolio, and 13.8% selected "other" as their response. Additionally, 8.6% both diversified their investment portfolio and reduced their investments; 3.4% changed their risk tolerance and increased investments; and another 3.4% diversified their investment portfolio, changed their risk tolerance, and reduced investments. Furthermore, 1.7% diversified their investment portfolio and increased investments, 1.7% changed their risk tolerance, 1.7% changed their risk tolerance and reduced investments, 1.7% reduced investments and selected "other," and 1.7% diversified their investment portfolio and changed their risk tolerance.
+
+## Sentimental Analysis
+![](sentiment-score.png)
+
+### Sentiment Score Distribution
+
+The histogram displays the frequency of sentiment scores among the respondents. Most sentiment scores are clustered around neutral to slightly positive values.
+The sentiment scores ranged from approximately -0.6 (most negative) to 0.5 (most positive), indicating diverse opinions among the respondents.
+
+#### Sentiment Category Counts
+Neutral Sentiment
+The majority of the comments (18 out of 26) were neutral, suggesting that many respondents did not express strong positive or negative feelings about the impact of the financial reforms.
+
+#### Positive Sentiment
+Seven comments were classified as positive, indicating a portion of the respondents viewed the financial sector cleanup and DDEP favourably.
+#### Negative Sentiment
+Only one comment was classified as negative, showing minimally strong opposition or dissatisfaction among the respondents.
+#### Response Rate
+Out of a total of 58 respondents, only 26 filled out the portion of the forms related to additional comments or insights. This suggests that the sentiment analysis represents only a portion of the total respondents and may not fully capture the overall sentiment of the entire group.
+
+![](confidence.png)
+
+The bar chart illustrates the distribution of confidence levels in Ghanaian financial institutions after the Financial Sector Cleanup and DDEP on a scale from 1 to 5, where 1 represents "not confident at all" and 5 represents "extremely confident." The chart shows that the majority of respondents have low to moderate confidence in financial institutions, with the highest counts observed at confidence levels 2 and 3. Specifically, approximately 17.5 respondents rate their confidence level as 2, and around 17 respondents rate it as 3, indicating that a substantial portion of the population feels somewhat uncertain about the stability and reliability of financial institutions.
+Additionally, a significant number of respondents, about 15, have the lowest confidence level, rated as 1, reflecting a notable lack of trust. In contrast, higher confidence levels are less frequent, with only a small number of respondents, around 5, rating their confidence as level 4, and even fewer, approximately 2, rating it as level 5. This suggests that very few individuals feel extremely confident in the financial institutions post-cleanup and DDEP.
+Overall, the data indicates a prevailing sentiment of scepticism and moderate trust among the population regarding Ghanaian financial institutions following the financial sector reforms. This distribution highlights the need for continued efforts to rebuild trust and confidence in the financial sector.
+Respondents' confidence in financial institutions varied, with a considerable number expressing low confidence post-cleanup.
 
 # Findings
 A significant number of respondents indicated low confidence (levels 1 and 2), reflecting the adverse impact on the overall confidence levels in financial institutions. This trend is especially pronounced among older age groups, particularly those aged 65 and above. Younger age groups (18-24) tend to have a slightly higher and more varied confidence level, but confidence still skews towards the lower end of the scale. A large proportion (44.8%) of respondents have reduced their investments as a result of the Financial Sector Cleanup and DDEP. A notable portion (17.2%) have diversified their investment portfolios, indicating a shift towards spreading risk. Other notable changes include a combination of reduced investments and diversified portfolios, changes in risk tolerance, and some increased investments. A significant majority (65.5%) have decreased their savings since the implementation of the Financial Sector Cleanup and DDEP. Only a small fraction (12.1%) has increased their savings, while 10.3% have experienced no change in their savings behavior. The remaining respondents (10.3%) specified other changes or a combination of decreased savings and unchanged behavior. The general sentiment, based on additional comments, indicates a mixture of skepticism and cautious optimism. While some individuals appreciate the intent behind the cleanup, there is concern about its immediate negative impact on personal finances and trust in financial institutions.
